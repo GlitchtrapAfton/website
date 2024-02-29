@@ -1,0 +1,63 @@
+<HTML>
+<HEAD>
+<TITLE>ArtOfHorrorWebsite</TITLE>
+</HEAD>
+<BODY>
+<body style="background-image: url(BG.png); background-size: cover;">
+<BR>
+<center><font size="50">
+	Welcome to website of a programming beginner!
+</font>
+<BR><BR><BR>
+<html>
+<p class="text">Here you can download all my biggest projects <BR> Choose any program you want</p>
+</html>
+<style>
+p{}
+.text{
+font-size: 35px
+}
+</style>
+</center>
+
+<html>
+<p class="text">          1.Neural Network (beta)</p>
+</html>
+<style>
+</style>
+<img src="neuralnetwork.png">
+<html>
+<p class="text">Neuroenglish - is a neural network that makes phrases.<BR> Self-educating algorithm chooses aditional word wich <BR> won't break any logic. At least it tries and with every <BR>attempt this program remembers more incorrect and<BR> correct combinations. <a href="https://drive.google.com/file/d/1qR1ZM1FopIJhV085PtxHudWuqXuOuFNk/view?usp=drive_link"> Download NeuroEnglish</a></p>
+</html>
+<style>
+p{}
+.text{
+font-size: 35px
+}
+</style>
+<BR>
+<html>
+<p class="text" align="right">2.Multi calculator(qudratic equations included)</p>
+</html>
+<img src="multicalc.png" align="right">
+<html>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<p class="text" align="right">This multi calc can do a lot of mathematical actions, such as addition,<BR> difference, exponentiation, finding the module, convertation from one <BR> measuremenrs to another and even solving quadratic equations. <BR><a href="https://drive.google.com/file/d/1OVDiGeLdzVfcaog_9n96fChIw6XgnKSZ/view?usp=drive_link"> Download Multicalc</a></p>
+</html>
+<html>
+<p class="text">3.Maintenance panel from Five Nights at Freddy's 3</p>
+</html>
+<style>
+</style>
+<img src="maintenancepanel.png">
+<html>
+<p class="text">This program is a copy of a gameplay element of the game FNaF 3. It doesen't do <BR >anything actually, but consider it my first attempt creating non-console application.<BR> this program was used on my youtube channel when I've made a music video <BR>"Our Little Horror Story". This app can be used in thematical videos such as mine. <BR><a href="https://drive.google.com/file/d/196s7r_kByKNOltdyU3vBadHBHUgvjORg/view?usp=drive_link"> Download a copy of FNaF3 maintenance pannel</a></p>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<html>
+<p class="text"><a href="file:///C:/webpages/about.htm">About</a>________________________________________<a href="file:///C:/webpages/possible%20problems.htm">Possible Problems</a>_________________________________________<a href="file:///C:/webpages/links.htm">Links</a></p>
+
+</html>
+<BR><BR>
+</html>
+</BODY>
+</HTML>
